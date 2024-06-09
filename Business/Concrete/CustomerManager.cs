@@ -8,7 +8,7 @@ namespace Bussiness.Concrete;
 
 public class CustomerManager : ICustomerService
 {
-    private ICustomerDal _customerDal;
+    private readonly ICustomerDal _customerDal;
     
     public CustomerManager(ICustomerDal customerDal)
     {
