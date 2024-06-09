@@ -1,0 +1,179 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/.idea.FinalProject.iml
+/projectSettingsUpdater.xml
+/contentModel.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.idea/
+.ionide/
+.rider/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+cmake_install.cmake
+[Cc][Mm][Aa][Kk][Ee][Ff]iles/
+
+# Rider generated files
+
+# Recycle Bin used by the Windows Shell
+$RECYCLE.BIN/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+# Static files
+!wwwroot
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# DotNet CLI
+.dotnet/tools/
+
+# DotNet backup and restore folders
+.vs/
+.sln*
+.suo
+.user
+#
+# Uncomment if you have tasks that create temporary files in wwwroot
+#wwwroot/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Uncomment if you have a custom packages directory
+# packages/
+
+# NuGet symbol packages
+*.symbols.nupkg
+
+# Microsoft Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# NUnit
+*.nunit
+
+# MSBuild binary and log files
+*.log
+*.cache
+
+# Windows Azure Build files
+csx/
+*.build.csdef
+
+# MSTest test results
+TestResults/
+
+# Build Results of an Installer project
+[Oo]ut/
+Release/
+
+# DotNet user global directory
+.dotnet/
+
+# DotNet global tools cache
+.toolversions
+
+# node.js dependencies
+node_modules/
+
+# Client-side dependencies
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional npm package-lock.json file
+package-lock.json
+
+# yarn v1
+.yarn
+yarn-error.log
+yarn-debug.log
+.yarnrc
+.yarnrc.yml
+
+# yarn v2
+.pnp.*
+.yarn/
+.yarn/releases
+.yarn/plugins
+.yarn/sdks
+.yarn/versions
+
+# Optional yarn v2.4+ integrity file
+.yarn-integrity
+
+# node-waf configuration
+.lock-wscript
+
+# Module dependency directory
+.eslintcache
+
+# Optional eslint cache
+.cache/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# End of .gitignore
