@@ -10,4 +10,7 @@ public static class Messages
     public const string CategoryAdded = "Category Added";
     public const string CategoryUpdated = "Category Updated";
     public const string CategoryDeleted = "Category Deleted";
+    public const string CustomerAdded = "Customer Added";
+    public const string CustomerUpdated = "Customer Updated";
+    public const string CustomerDeleted = "Customer Deleted";
 }
