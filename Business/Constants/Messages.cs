@@ -7,4 +7,7 @@ public static class Messages
     public const string ProductUpdated = "Product Updated";
     public const string ProductDeleted = "Product Deleted";
     public const string MaintenanceTime = "System is under maintenance";
+    public const string CategoryAdded = "Category Added";
+    public const string CategoryUpdated = "Category Updated";
+    public const string CategoryDeleted = "Category Deleted";
 }
